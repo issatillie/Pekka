@@ -1,0 +1,17 @@
+{
+    "name": "issatillie/pekka",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Issatillie\\Pekka\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matilda Smets",
+            "email": "info@tilto.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
